@@ -45,7 +45,7 @@ target/
 # Ignore temporary files
 *.tmp
 *.swp
-.DS_Store
+
 
 # Ignore OS-specific files
 Thumbs.db
